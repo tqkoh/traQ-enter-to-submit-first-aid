@@ -6,7 +6,7 @@ edge, chrome v105+ で traQ の enter でメッセージを送信できないバ
 
 以下からインストール
 [tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)
-[greasyfork](https://greasyfork.org/ja/scripts/451552-traq-enter-to-submit-first-aid)
+[traq-enter-to-submit-first-aid](https://greasyfork.org/ja/scripts/451552-traq-enter-to-submit-first-aid)
 
 # 使い方
 
